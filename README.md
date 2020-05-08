@@ -1,0 +1,2 @@
+# IIDS-Inferring_Interactions_from_Distribution_Snapshots
+Infer spatial flows from spatial distribution snapshots -- Opensource code for the journal paper Di Zhu, Zhou Huang, Li Shi, Lun Wu &amp; Yu Liu (2018) Inferring spatial interaction patterns from sequential snapshots of spatial distributions, International Journal of Geographical Information Science, 32:4, 783-805, DOI: 10.1080/13658816.2017.1413192
