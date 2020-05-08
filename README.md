@@ -10,7 +10,7 @@ Di Zhu, Zhou Huang, Li Shi, Lun Wu &amp; Yu Liu (2018) Inferring spatial interac
 ## Citation
 Please cite our paper if IIDS helps you in your own work:
 
-hu, D., Huang, Z., Shi, L., Wu, L., & Liu, Y. (2018). Inferring spatial interaction patterns from sequential snapshots of spatial distributions. *International Journal of Geographical Information Science*, 32(4), 783-805.
+Zhu, D., Huang, Z., Shi, L., Wu, L., & Liu, Y. (2018). Inferring spatial interaction patterns from sequential snapshots of spatial distributions. *International Journal of Geographical Information Science*, 32(4), 783-805.
 
 ```
 @article{zhu2018inferring,
