@@ -3,22 +3,10 @@ A Linear programming solution to Infer the unknown spatial flows from spatial di
 
  ---- 
 
-Opensource code for the journal paper Di Zhu, Zhou Huang, Li Shi, Lun Wu &amp; Yu Liu (2018) Inferring spatial interaction patterns from sequential snapshots of spatial distributions, International Journal of Geographical Information Science, 32:4, 783-805, DOI: 10.1080/13658816.2017.1413192
+Opensource code for the journal paper:
+Di Zhu, Zhou Huang, Li Shi, Lun Wu &amp; Yu Liu (2018) Inferring spatial interaction patterns from sequential snapshots of spatial distributions, International Journal of Geographical Information Science, 32:4, 783-805, DOI: 10.1080/13658816.2017.1413192
 
 ----
-
-
-
-![Alt Text](readme_pics/1.png)
-
-![Alt Text](readme_pics/2.png)
-
-![Alt Text](readme_pics/3.png)
-
-![Alt Text](readme_pics/4.png)
-
-
-
 ## Citation
 Please cite our paper if IIDS helps you in your own work:
 
@@ -34,3 +22,13 @@ number={4},
 pages={783--805},
 year={2018}}
 ```
+
+
+![Alt Text](readme_pics/1.png)
+
+![Alt Text](readme_pics/2.png)
+
+![Alt Text](readme_pics/3.png)
+
+![Alt Text](readme_pics/4.png)
+
